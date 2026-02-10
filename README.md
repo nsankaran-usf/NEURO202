@@ -5,7 +5,7 @@ This course will primarily use Jupyter notebooks, an interactive notebook that c
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsankaran-usf/NEURO202)
 
-### Below are steps on showing how materials will look like and how they will be submitted in the future there are no materials to access as of now
+### Below are steps on showing how materials will look like and how they will be submitted in the future
 
 Once you click on the button, the window shown below will open. Select the file you want to work on (e.g., a particular assignment or in-class coding activity). This will open the notebook. <br>
 ![Alt text](/README_pictures/Screenshot%202025-07-24%20032913.png)
