@@ -30,7 +30,7 @@ A new notebook should then open with the title "Copy of [file name]". This copy 
 ## 📬 Contact & Support
 * **Instructor:** Dr. Sankaran
 * **Email:** nsankaran[at]usfca.edu
-* **Office Hours:** In-person (drop in): Tuesday / Thursday 4:30 pm - 5:30 pm, *Kalmanovitz 284* | Virtual (15-minute appointment): https://calendar.app.google/1i2Jv1oqcRjCwP1k6
+* **Office Hours:** In-person (drop in): Tuesday / Thursday 3:00 pm - 4:00 pm, *Kalmanovitz 284* | Virtual (15-minute appointment): https://calendar.app.google/1i2Jv1oqcRjCwP1k6
 
 ## ⚖️ License
 This work is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
